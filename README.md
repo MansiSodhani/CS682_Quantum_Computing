@@ -1,7 +1,7 @@
 # CS682_Quantum_Computing IITK
--
-The assignments involve designing custom quantum circuits using basic quantum gates in Qiskit.
 ---
+The assignments involve designing custom quantum circuits using basic quantum gates in Qiskit.
+
 ### Assignment 1:
 -
 Task 1: Create a swap circuit without utilizing the built-in swap function and verify the output for |0⟩|+⟩ using a state-vector simulator
